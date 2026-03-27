@@ -1,0 +1,4 @@
+[submodule ".claude"]
+	path = .claude
+	url = https://github.com/tranluong460/shared-claude-config.git
+	branch = main
