@@ -85,13 +85,9 @@ passion: Building tools that automate everything
 
 ### Trophy
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=tranluong460&theme=tokyonight&no-frame=true&column=7&no-bg=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=tranluong460&theme=flat&no-frame=true&column=7&no-bg=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=tranluong460&theme=tokyonight&no-frame=true&column=7&no-bg=true" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tranluong460&theme=tokyonight&no-frame=true&column=7&no-bg=true" />
+</p>
 
 ---
 
