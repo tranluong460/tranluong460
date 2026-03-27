@@ -35,7 +35,7 @@ passion: Building tools that automate everything
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,electron,sqlite,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,nextjs,electron,sqlite,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -43,6 +43,8 @@ passion: Building tools that automate everything
 |----------|-------------|
 | **Languages** | TypeScript, JavaScript |
 | **Runtime** | Node.js |
+| **Backend** | NestJS |
+| **Frontend** | Next.js |
 | **Desktop** | Electron |
 | **Database** | SQLite, TypeORM |
 | **Automation** | Puppeteer |
@@ -52,19 +54,10 @@ passion: Building tools that automate everything
 
 ### GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tranluong460&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=58A6FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tranluong460&show_icons=true&theme=default&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tranluong460&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tranluong460&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tranluong460&layout=compact&theme=default&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranluong460&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </picture>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tranluong460&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranluong460&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
 <br/>
 
