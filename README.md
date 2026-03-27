@@ -11,18 +11,21 @@
 
 ### About Me
 
-Backend Developer from Vietnam. I build backend services, desktop apps, and automation tools.
+Backend Developer from Vietnam with a passion for building tools that automate everything.
 
-Exploring **System Design** & **Scalable Architecture**
+I work with **NestJS** for backend, **Next.js** for frontend, and **Electron** for desktop apps.
+I also love writing automation scripts with **Puppeteer** & **Playwright** to simplify workflows.
+
+Currently exploring **System Design** & **Scalable Architecture**.
 
 ---
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,nextjs,electron,sqlite,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,nextjs,electron,sqlite,docker,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 **Backend** &nbsp; Node.js · NestJS &nbsp;&nbsp; **Frontend** &nbsp; Next.js &nbsp;&nbsp; **Desktop** &nbsp; Electron
 
-**Database** &nbsp; SQLite · TypeORM &nbsp;&nbsp; **Automation** &nbsp; Puppeteer
+**Database** &nbsp; SQLite · TypeORM &nbsp;&nbsp; **DevOps** &nbsp; Docker &nbsp;&nbsp; **Automation** &nbsp; Puppeteer · Playwright
 
 </div>
