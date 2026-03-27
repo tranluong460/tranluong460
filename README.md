@@ -7,62 +7,22 @@
 <a href="https://facebook.com/tranvanluong9703"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=tranluong460&color=58A6FF&style=flat-square&label=Views" />
 
-</div>
-
 ---
 
 ### About Me
 
-```yaml
-name: Luong
-role: Backend Developer
-location: Vietnam (UTC+7)
-focus: [Node.js, NestJS, Next.js, Electron]
-passion: Building tools that automate everything
-```
+Backend Developer from Vietnam. I build backend services, desktop apps, and automation tools.
 
-- Building backend services with **NestJS** and frontend with **Next.js**
-- Developing desktop applications with **Electron**
-- Automating everything with **Puppeteer** & custom tooling
-- Working with **SQLite** & **TypeORM** for database management
-- Using **Git** & **GitHub** for version control and collaboration
-
----
-
-### What I'm up to
-
-- Currently exploring **System Design** & **Scalable Architecture**
-- Building automation tools to simplify daily workflows
-- Always looking to learn and improve my craft
+Exploring **System Design** & **Scalable Architecture**
 
 ---
 
 ### Tech Stack
 
-<div align="center">
-
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,nextjs,electron,sqlite,git,github,vscode&theme=dark)](https://skillicons.dev)
 
+**Backend** &nbsp; Node.js · NestJS &nbsp;&nbsp; **Frontend** &nbsp; Next.js &nbsp;&nbsp; **Desktop** &nbsp; Electron
+
+**Database** &nbsp; SQLite · TypeORM &nbsp;&nbsp; **Automation** &nbsp; Puppeteer
+
 </div>
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | TypeScript, JavaScript |
-| **Backend** | Node.js, NestJS |
-| **Frontend** | Next.js |
-| **Desktop** | Electron |
-| **Database** | SQLite, TypeORM |
-| **Automation** | Puppeteer |
-| **Tools** | Git, VS Code |
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranluong460&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</p>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
