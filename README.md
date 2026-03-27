@@ -1,13 +1,9 @@
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20L%C6%B0%C6%A1ng&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling)
+
 <div align="center">
 
-<!-- Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+L%C6%B0%C6%A1ng;Backend+Developer+%7C+Automation+Enthusiast">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+L%C6%B0%C6%A1ng;Backend+Developer+%7C+Automation+Enthusiast">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+L%C6%B0%C6%A1ng;Backend+Developer+%7C+Automation+Enthusiast">
-</picture>
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Node.js+%7C+NestJS+%7C+Next.js+%7C+Electron;Passionate+about+Automation+%26+System+Tooling;Building+tools+that+automate+everything)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tranluong460&color=58A6FF&style=flat-square&label=Profile+Views)
 
@@ -15,23 +11,25 @@
 
 ---
 
-### About Me
+## About Me
 
 ```yaml
 name: Luong
 role: Backend Developer
 location: Vietnam
-focus: [Node.js, Electron, Automation]
+focus: [Node.js, NestJS, Next.js, Electron]
 passion: Building tools that automate everything
 ```
 
 - Currently working with **Node.js** & **Electron** to build desktop applications
+- Building backend services with **NestJS** and frontend with **Next.js**
 - Passionate about **automation** and **system tooling**
 - Love exploring **Puppeteer** for web scraping & browser automation
 
 ---
 
-### Tech Stack
+<details>
+<summary><h2>🛠 Tech Stack</h2></summary>
 
 <div align="center">
 
@@ -50,64 +48,68 @@ passion: Building tools that automate everything
 | **Automation** | Puppeteer |
 | **Tools** | Git, VS Code |
 
+</details>
+
 ---
 
-### GitHub Stats
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
 
 <p align="center">
   <img height="165" src="https://raw.githubusercontent.com/tranluong460/tranluong460/main/github-stats.svg" />
   <img height="165" src="https://raw.githubusercontent.com/tranluong460/tranluong460/main/github-langs.svg" />
 </p>
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tranluong460&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tranluong460&theme=default&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=tranluong460&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" />
-  </picture>
-</div>
-
----
-
-### Activity Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tranluong460&theme=tokyo-night&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tranluong460&theme=minimal&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranluong460&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-  </picture>
-</div>
-
----
-
-### Trophy
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tranluong460&theme=tokyonight&no-frame=true&column=7&no-bg=true" />
+  <img src="https://streak-stats.demolab.com?user=tranluong460&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" />
 </p>
 
----
-
-### Snake Contribution
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranluong460/tranluong460/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranluong460/tranluong460/output/github-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/tranluong460/tranluong460/output/github-snake-dark.svg" />
-  </picture>
-</div>
+</details>
 
 ---
 
+<details open>
+<summary><h2>🧊 3D Contribution Chart</h2></summary>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" />
+</p>
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🐍 Snake Contribution</h2></summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranluong460/tranluong460/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranluong460/tranluong460/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tranluong460/tranluong460/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</details>
+
+---
+
 <div align="center">
 
-### Let's Connect
+## Let's Connect
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
+
+---
+
+<div align="center">
+
+### Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
