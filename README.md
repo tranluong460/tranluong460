@@ -56,8 +56,17 @@ passion: Building tools that automate everything
 <summary><h2>📊 GitHub Stats</h2></summary>
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/tranluong460/tranluong460/main/github-stats.svg" />
-  <img height="165" src="https://raw.githubusercontent.com/tranluong460/tranluong460/main/github-langs.svg" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 <p align="center">
