@@ -1,35 +1,49 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20L%C6%B0%C6%A1ng&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling)
+<!-- Capsule Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=twinkling)
 
-<div align="center">
+<!-- Custom Neon Header -->
+<p align="center">
+  <img src="./assets/neon-header.svg" alt="Luong - Backend Developer" width="800" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Node.js+%7C+NestJS+%7C+Next.js+%7C+Electron;Passionate+about+Automation+%26+System+Tooling;Building+tools+that+automate+everything)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=tranluong460&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <a href="https://facebook.com/tranvanluong9703"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tranluong460&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
-## About Me
+<!-- Custom Terminal SVG -->
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal" width="800" />
+</p>
+
+---
+
+<details open>
+<summary><h2>About Me</h2></summary>
 
 ```yaml
 name: Luong
 role: Backend Developer
-location: Vietnam
+location: Vietnam (UTC+7)
 focus: [Node.js, NestJS, Next.js, Electron]
 passion: Building tools that automate everything
+currently_learning: System Design & Scalable Architecture
 ```
 
-- Currently working with **Node.js** & **Electron** to build desktop applications
 - Building backend services with **NestJS** and frontend with **Next.js**
-- Passionate about **automation** and **system tooling**
-- Love exploring **Puppeteer** for web scraping & browser automation
+- Developing desktop applications with **Electron**
+- Automating everything with **Puppeteer** & custom tooling
+- Open source contributor & automation enthusiast
+
+</details>
 
 ---
 
 <details>
-<summary><h2>🛠 Tech Stack</h2></summary>
+<summary><h2>Tech Stack</h2></summary>
 
 <div align="center">
 
@@ -40,8 +54,7 @@ passion: Building tools that automate everything
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | TypeScript, JavaScript |
-| **Runtime** | Node.js |
-| **Backend** | NestJS |
+| **Backend** | Node.js, NestJS |
 | **Frontend** | Next.js |
 | **Desktop** | Electron |
 | **Database** | SQLite, TypeORM |
@@ -53,24 +66,43 @@ passion: Building tools that automate everything
 ---
 
 <details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
+<summary><h2>Featured Projects</h2></summary>
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**chrome-downgrader**](https://github.com/tranluong460/chrome-downgrader) | Tool for downgrading Chrome browser versions | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**base-factory**](https://github.com/tranluong460/base-factory) | Base project factory / boilerplate generator | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**core-project**](https://github.com/tranluong460/core-project) | Core project template & utilities | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**polyshop**](https://github.com/tranluong460/polyshop) | E-commerce application | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**datn**](https://github.com/tranluong460/datn) | Graduation thesis project | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+</div>
+
+</details>
+
+---
+
+<details open>
+<summary><h2>GitHub Stats</h2></summary>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tranluong460&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=tranluong460&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="Streak Stats" />
 </p>
 
 </details>
@@ -78,7 +110,7 @@ passion: Building tools that automate everything
 ---
 
 <details open>
-<summary><h2>🧊 3D Contribution Chart</h2></summary>
+<summary><h2>3D Contribution Chart</h2></summary>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" />
@@ -89,7 +121,7 @@ passion: Building tools that automate everything
 ---
 
 <details open>
-<summary><h2>🐍 Snake Contribution</h2></summary>
+<summary><h2>Snake Contribution</h2></summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranluong460/tranluong460/output/github-snake-dark.svg">
@@ -101,14 +133,8 @@ passion: Building tools that automate everything
 
 ---
 
-<div align="center">
-
-## Let's Connect
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
